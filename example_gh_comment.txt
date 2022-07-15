@@ -1,0 +1,28 @@
+### Summary:
+<p float="left">
+  <img src="https://img.shields.io/badge/Tests-5-blue" />
+  <img src="https://img.shields.io/badge/Passed-4-green" /> 
+  <img src="https://img.shields.io/badge/Failed-1-red" />
+  <img src="https://img.shields.io/badge/Inconclusive-0-lightgrey" />
+  <img src="https://img.shields.io/badge/Skipped-0-lightgrey" />
+</p>"
+---
+
+### Failed tests:
+        *Test:*
+
+**MoreTests.FailingTest**
+
+*Message:*
+```
+Intentional failure
+```
+
+*Stack Trace:*
+
+```
+at MoreTests.FailingTest () [0x00001] in /Users/J/SampleTests/Assets/Tests/MoreTests.cs:29
+
+```
+
+---
